@@ -1,1 +1,1 @@
-Creating GUI based on Qt Designer
+Creating GUI that run Linux SHELLS
